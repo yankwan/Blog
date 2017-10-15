@@ -1,3 +1,3 @@
 # Blog
 
-[问题1](https://github.com/yankwan/Blog/issues/1)
+[目录](https://github.com/yankwan/Blog/issues)
