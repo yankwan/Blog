@@ -25,3 +25,8 @@
 #### Workflow && Bundler
 
 * [Parcel上手实践](https://github.com/yankwan/Blog/issues/14)
+
+#### Framework && Libs
+
+* [你不知道的Vue响应式原理](https://github.com/yankwan/Blog/issues/15)
+* [Chart.js上手实践](https://github.com/yankwan/Blog/issues/16)
