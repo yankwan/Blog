@@ -4,7 +4,6 @@
 
 > <i class="fa fa-home fa-fw"></i>&nbsp;[Home](https://github.com/yankwan/Blog) &nbsp;&nbsp;&nbsp;&nbsp; <i class="fa fa-archive fa-fw"></i>&nbsp;[Archive](https://github.com/yankwan/Blog/issues) &nbsp;&nbsp;&nbsp;&nbsp; <i class="fa fa-question-circle fa-fw"></i>&nbsp;About
 
-![banner](https://github.com/yankwan/Blog/blob/master/image/banner.jpg?raw=true)
 
 #### JavaScript Basic
 
@@ -25,3 +24,8 @@
 #### Workflow && Bundler
 
 * [Parcel上手实践](https://github.com/yankwan/Blog/issues/14)
+
+#### Framework && Libs
+
+* [你不知道的Vue响应式原理](https://github.com/yankwan/Blog/issues/15)
+* [Chart.js上手实践](https://github.com/yankwan/Blog/issues/16)
